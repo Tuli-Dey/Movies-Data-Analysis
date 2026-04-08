@@ -19,3 +19,6 @@ Through interactive dashboards and data visualization techniques (primarily usin
 Overall, this project demonstrates the practical application of data analytics in the media and entertainment domain, supporting data-driven decision-making for content creation, investment, and distribution strategies.
 
 ---
+# 3. File Details
+
+> ## Raw Data
