@@ -1,2 +1,2 @@
-🎬  Movies-Data-Analysis Dashboard
+Movies-Data-Analysis Dashboard
 Data Analysis
