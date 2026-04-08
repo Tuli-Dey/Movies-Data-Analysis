@@ -5,4 +5,9 @@
 ---
 # 1. Project Title
 
-> Movies Dataset Analysis and Visualization using Microsoft Excel
+> Movies Dataset Analysis and Visualization using Microsoft Excel.
+
+---
+# 2. Project Overview
+
+>
