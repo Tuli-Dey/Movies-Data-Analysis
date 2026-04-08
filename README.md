@@ -10,4 +10,12 @@
 ---
 # 2. Project Overview
 
->
+> This project focuses on analyzing a structured movies and TV content dataset to uncover key trends in the entertainment industry. The dataset includes detailed information such as content type (Movies, TV Series, Stand-up), genres, release years, duration, IMDb ratings, production budgets, box office revenue, and platform availability.
+
+The objective of this analysis is to transform raw data into meaningful insights by examining patterns in audience preferences, genre performance, and financial outcomes. The project highlights how factors like content type, budget, and platform distribution (including Netflix Originals) influence ratings and revenue generation.
+
+Through interactive dashboards and data visualization techniques (primarily using Microsoft Excel), this project enables a clear comparison of different entertainment categories, helping identify high-performing genres, profitable content strategies, and evolving industry trends over time.
+
+Overall, this project demonstrates the practical application of data analytics in the media and entertainment domain, supporting data-driven decision-making for content creation, investment, and distribution strategies.
+
+---
