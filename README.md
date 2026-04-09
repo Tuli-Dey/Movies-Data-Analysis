@@ -57,3 +57,9 @@ Below are the description of each Columns used in the dataset.
 | is_netflix_original| Boolean | Indicates if the content is a Netflix original   |
 | added_to_platform | Date     | Date when the content was added to the platform  |
 | content_warning   | Boolean  | Indicates presence of a content warning          |
+
+---
+
+# 5. Cleaning Notes
+Below are the cleaning steps were performed to prepare the dataset into meaningful insights.
+- The movie_id column originally contained values such as movie_001.
