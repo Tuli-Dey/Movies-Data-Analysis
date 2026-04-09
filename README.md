@@ -69,4 +69,24 @@ Below are the cleaning steps were performed to prepare the dataset into meaningf
 ---
 
 # 6. Analytics View
+Below are the KPIs used in the Dashboard -
+
+- Total number of content items in the dataset.
+- Average runtime of content in minutes.
+- Average IMDB rating of content.
+- Total production cost.
+- Total earning from box office.
+- Total seasons for TV series.
+- Total episodes for TV series.
+
+Below is the description of the charts used in the dashboard -
+
+- Calculation of content type based on the Total number of content items.
+- Calculation of Average runtime of content in minutes over content types.
+- Average IMDB rating calculation by content type.
+- Calculation of Investment vs Return.
+- Country wise financial growth.
+- Country wise Investment vs Return.
+
+---
 
