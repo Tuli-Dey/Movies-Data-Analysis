@@ -29,7 +29,7 @@ Overall, this project demonstrates the practical application of data analytics i
 - **Pivot Analysis1.xlsx** - Pivot Analysis based on Content type (Movies, TV Series, Stand-up Comedy, etc.)
 - **Pivot Analysis2.xlsx** - Pivot Analysis based on country_of_origin (Canada, France, India, etc.)
 ## Dashboard
-- **Dashboard_image.png** – Screenshot of the final Excel dashboard.
+- **Dashboard.png** – Screenshot of the final Excel dashboard.
 
 ---
 
@@ -90,3 +90,10 @@ Below is the description of the charts used in the dashboard -
 
 ---
 
+# 7. Dashboard View
+
+<img width="1310" height="494" alt="Dashboard" src="https://github.com/user-attachments/assets/7afde3fa-9996-4112-82b8-655d7bd0afde" />
+
+---
+
+# 8. Analysis Report
