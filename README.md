@@ -62,4 +62,11 @@ Below are the description of each Columns used in the dataset.
 
 # 5. Cleaning Notes
 Below are the cleaning steps were performed to prepare the dataset into meaningful insights.
-- The movie_id column originally contained values such as movie_001.
+- The **movie_id** column originally contained values such as movie_001, movie_002. For cleaning purpose extracted only the unique numeric values.
+- Removed **movie_id** column and rename it by **id**.
+- Sort the dataset based on the **id** column.
+
+---
+
+# 6. Analytics View
+
