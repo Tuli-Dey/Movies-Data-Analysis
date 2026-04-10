@@ -108,3 +108,8 @@ This dashboard provides insights into Netflix content performance across multipl
 
 ---
 
+# 9. Conclusion
+
+The analysis indicates that Netflix’s content portfolio is **profit-driven and strategically diversified**, with a clear dominance of movies in both volume and revenue contribution. While **TV series ensure steady user engagement through higher ratings, stand-up comedy emerges as the most cost-efficient category**, delivering strong returns with minimal investment.
+
+Optimizing the content mix by **increasing investment in high-ROI formats and expanding geographically** can further enhance overall performance and long-term growth.
