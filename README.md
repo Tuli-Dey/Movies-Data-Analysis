@@ -97,3 +97,14 @@ Below is the description of the charts used in the dashboard -
 ---
 
 # 8. Analysis Report
+
+This dashboard provides insights into Netflix content performance across multiple dimensions including content type, ratings, duration, and financial metrics.
+- The dataset contains **1040 movies** with an average duration of ~80 minutes and an average IMDb rating of **6.2**.
+- Total **production investment (~11.56B)** generated **~67.19B revenue**, indicating strong overall profitability.
+- **Movies dominate the platform** with the highest content count and contribute the most to total watch time and revenue.
+- **TV Series maintain slightly higher audience ratings**, reflecting consistent viewer engagement.
+- **Stand-up Comedy shows strong Return On Investment**, delivering good returns with relatively low investment.
+- Country-wise analysis shows **revenue concentration in key regions**, suggesting potential for growth in emerging markets.
+
+---
+
