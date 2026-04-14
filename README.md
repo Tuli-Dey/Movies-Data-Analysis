@@ -22,9 +22,9 @@ Overall, this project demonstrates the practical application of data analytics i
 # 3. File Details
 
 ## Raw Data
-- **Movies.csv** - Raw Dataset before cleaning.
+- **Raw Movies Dataset.csv** - Raw Dataset before cleaning.
 ## Cleaned Data
-- **Cleaned Movies.csv** - Dataset after cleaning process.
+- **Cleaned Movies Dataset.csv** - Dataset after cleaning process.
 ## Pivot Analysis
 - **Movies Pivot Table Calculation1.xlsx** - Pivot Analysis based on Content type (Movies, TV Series, Stand-up Comedy, etc.)
 - **Movies Pivot Table Calculation2.xlsx** - Pivot Analysis based on country_of_origin (Canada, France, India, etc.)
